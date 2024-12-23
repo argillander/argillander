@@ -1,5 +1,7 @@
 ### Hi there 👋
-Mostly pushing to private repos for research work. What you see here is mostly personal projects and miscellaneous tinkering.
+Mostly pushing to private repos for research work. 
+
+What you see here is mostly personal projects and miscellaneous tinkering.
 <!--
 **argillander/argillander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
